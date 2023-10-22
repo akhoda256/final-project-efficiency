@@ -1,0 +1,7 @@
+/home/behnam/Development-Software/clion-2022.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/behnam/Development-Software/clion-2022.1/bin/ninja/linux/ninja -G Ninja -S /home/behnam/CLionProjects/finalProject/c_encoder/ppe -B /home/behnam/CLionProjects/finalProject/c_encoder/ppe/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/behnam/CLionProjects/finalProject/c_encoder/ppe/cmake-build-debug
+
+Problems were encountered while collecting compiler information:
+	gcc-8: error: tcmalloc: No such file or directory

@@ -1,0 +1,3 @@
+/home/behnam/CLionProjects/finalProject/c_encoder/ppe/cmake-build-debug/CMakeFiles/ppe.dir
+/home/behnam/CLionProjects/finalProject/c_encoder/ppe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/behnam/CLionProjects/finalProject/c_encoder/ppe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
